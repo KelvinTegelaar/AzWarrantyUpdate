@@ -5,7 +5,7 @@
     'DattoRMM'    = '1.*'
     'PSWarranty'  = '1.*'
     'ITGlueAPI'   = '2.*'
-    'AutotaskAPI' = '1.*'
+    'AutotaskAPI' = '1.4.6'
     'HuduAPI'     = '1.*'
     # For latest supported version, go to 'https://www.powershellgallery.com/packages/Az'. 
 }
