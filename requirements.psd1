@@ -3,7 +3,7 @@
 #
 @{
     'DattoRMM'    = '1.*'
-    'PSWarranty'  = '1.4.7.2'
+    'PSWarranty'  = '1.4.*'
     'ITGlueAPI'   = '2.*'
     'AutotaskAPI' = '1.*'
     'HuduAPI'     = '1.*'
